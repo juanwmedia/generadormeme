@@ -1,0 +1,12 @@
+<resources>
+    <string name="consejo">Para mejores resultados toma la foto en modo vertical</string>
+    <string name="acerca_de">Etiam volutpat tortor mattis est feugiat, non consequat diam aliquam. Pellentesque enim eros, tempor ut sodales volutpat, bibendum at elit. Curabitur faucibus, ipsum sed bibendum ornare, lacus est venenatis urna, molestie lacinia ante tellus et magna. </string>
+    <string name="titulo_acerca">Sobre CapturarMeme</string>
+    <string name="boton_cerrar">Cerrar</string>
+    <string name="tap_para_editar">Tap para editar</string>
+    <string name="generando">Generando MEME...</string>
+    <string name="introduce_texto">Introduce texto</string>
+    <string name="firma">He creado un nuevo #photomeme</string>
+    <string name="share">Compartir imagen</string>
+</resources>
+

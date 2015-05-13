@@ -1,0 +1,12 @@
+<resources>
+    <string name="consejo">For best results, please take the picture in portrait mode.</string>
+    <string name="acerca_de"> Etiam volutpat tortor mattis est feugiat, non consequat diam aliquam. Pellentesque enim eros, tempor ut sodales volutpat, bibendum at elit. Curabitur faucibus, ipsum sed bibendum ornare, lacus est venenatis urna, molestie lacinia ante tellus et magna. .</string>
+    <string name="titulo_acerca">About CaptureMeme</string>
+    <string name="boton_cerrar">Close</string>
+    <string name="tap_para_editar">Tap to edit</string>
+    <string name="generating">Generating MEME...</string>
+    <string name="introduce_texto">Enter text</string>
+    <string name="firma">I created a new #photomeme</string>
+    <string name="share">Share image</string>
+</resources>
+

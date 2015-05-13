@@ -1,0 +1,15 @@
+<Alloy>
+	<Window class="container">
+		
+		<Button id="botonAyuda" platform="ios" onClick="mostrarInformacion"/>
+		
+		<Menu id="menu" platform="android">
+			<MenuItem id="informacion" onClick="mostrarInformacion" />
+		</Menu>
+		
+		<Button id="tomarFoto" onClick="callbackTomarFoto"/>
+		
+		<Label id="consejo"/>
+		
+	</Window>
+</Alloy>

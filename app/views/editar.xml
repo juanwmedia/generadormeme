@@ -1,0 +1,27 @@
+<Alloy>
+	<Window id="editar" class="container">
+	    <ActionBar id="actionbar" platform="android"/>
+
+	    <Menu id="menu" platform="android">
+	      <MenuItem id="compartir" onClick="compartirMeme"/>
+	    </Menu>
+
+	    <Toolbar id="toolbar" platform="ios">
+	    	<Items>
+	    		<Button id="botonCerrar" onClick="cerrarVentana"/>
+	    		<FlexSpace/>
+	    		<Label color="#fff">Preview</Label>
+	    		<FlexSpace/>
+	    		<Button id="botonCompartir" onClick="compartirMeme"/>
+	    	</Items>
+	    </Toolbar>
+
+		<View id="meme">
+			<ImageView id="laFoto"/>
+			<Label id="textoArriba" class="caption" onClick="editarTextoArriba"/>
+			<Label id="textoAbajo" class="caption" onClick="editarTextoAbajo"/>
+		</View>
+
+		<ProgressIndicator ns="Ti.UI.Android" id="progressIndicator" platform="android"/>
+	</Window>
+</Alloy>
